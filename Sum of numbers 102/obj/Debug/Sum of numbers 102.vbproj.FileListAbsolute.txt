@@ -1,0 +1,12 @@
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\bin\Debug\Sum of numbers 102.exe.config
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\bin\Debug\Sum of numbers 102.exe
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\bin\Debug\Sum of numbers 102.pdb
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\bin\Debug\Sum of numbers 102.xml
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\obj\Debug\Sum of numbers 102.vbprojAssemblyReference.cache
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\obj\Debug\Sum_of_numbers_102.Form1.resources
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\obj\Debug\Sum_of_numbers_102.Resources.resources
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\obj\Debug\Sum of numbers 102.vbproj.GenerateResource.cache
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\obj\Debug\Sum of numbers 102.vbproj.CoreCompileInputs.cache
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\obj\Debug\Sum of numbers 102.exe
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\obj\Debug\Sum of numbers 102.xml
+C:\VBNet\Sum of numbers 102\Sum of numbers 102\obj\Debug\Sum of numbers 102.pdb
