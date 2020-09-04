@@ -15,28 +15,39 @@ Public Class Form1
         Dim intCounter As Integer
         Dim intNumber As Integer
         Dim intSum As Integer
+        Dim isValid As Boolean
+
+        isValid = False
+
+        While isValid = False
 
 
-        strPositiveInteger = InputBox("Enter a positive integer value", "Input Needed", "10")
+
+            strPositiveInteger = InputBox("Enter a positive integer value", "Input Needed", "10")
 
 
-        If ValidInput(strPositiveInteger, intNumber) = True Then
 
-            intSum = 0
-            intCounter = 0
+            isValid = ValidInput(strPositiveInteger, intNumber)
 
-            Do Until intCounter > intNumber
+            If isValid = True Then
 
-                intSum += intCounter
+                intSum = 0
+                intCounter = 0
+
+                Do Until intCounter > intNumber
+
+                    intSum += intCounter
 
                     intCounter += 1
 
-            Loop
+                Loop
 
 
-            MessageBox.Show("The Sum of 1 to " & intNumber & " is " & intSum)
+                MessageBox.Show("The Sum of 1 to " & intNumber & " is " & intSum)
 
-        End If
+            End If
+
+        End While
 
     End Sub
 
